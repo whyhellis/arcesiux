@@ -1,2 +1,1 @@
-#arcesiux
-123
+static linkpage
